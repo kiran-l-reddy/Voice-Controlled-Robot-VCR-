@@ -4,6 +4,7 @@ Listed below are the components used for this project
 1. Arduino Uno( you can use a Nano or any other equivalent board).
 2. L239d motor driver.
 3. Bluetooth hc-05.
+4. Ultrasonic sensor HC-sr04
 
 The app that we are using in this project is "quick type".
 https://www.instructables.com/id/QuickType-A-new-way-to-type/
